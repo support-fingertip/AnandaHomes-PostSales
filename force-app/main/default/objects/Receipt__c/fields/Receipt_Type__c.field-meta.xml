@@ -45,6 +45,16 @@
                 <default>false</default>
                 <label>Refund Adjustment</label>
             </value>
+            <value>
+                <fullName>Prorata</fullName>
+                <default>false</default>
+                <label>Prorata</label>
+            </value>
+            <value>
+                <fullName>Bank Disbursement</fullName>
+                <default>false</default>
+                <label>Bank Disbursement</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
