@@ -3,11 +3,11 @@
     <fullName>Available_Units__c</fullName>
     <label>Available Units</label>
     <summaryFilterItems>
-        <field>Unit__c.Status__c</field>
+        <field>Plot__c.Status__c</field>
         <operation>equals</operation>
         <value>Available</value>
     </summaryFilterItems>
-    <summaryForeignKey>Unit__c.Project__c</summaryForeignKey>
+    <summaryForeignKey>Plot__c.Project__c</summaryForeignKey>
     <summaryOperation>count</summaryOperation>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

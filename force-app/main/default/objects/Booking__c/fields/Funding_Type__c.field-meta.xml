@@ -30,26 +30,6 @@
                 <default>false</default>
                 <label>NBFC Loan</label>
             </value>
-            <value>
-                <fullName>Self</fullName>
-                <default>false</default>
-                <label>Self</label>
-            </value>
-            <value>
-                <fullName>Loan</fullName>
-                <default>false</default>
-                <label>Loan</label>
-            </value>
-            <value>
-                <fullName>Prorata</fullName>
-                <default>false</default>
-                <label>Prorata</label>
-            </value>
-            <value>
-                <fullName>Partial</fullName>
-                <default>false</default>
-                <label>Partial</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

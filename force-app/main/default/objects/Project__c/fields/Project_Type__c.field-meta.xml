@@ -11,19 +11,14 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Plot</fullName>
+                <fullName>Residential</fullName>
                 <default>false</default>
-                <label>Plot</label>
+                <label>Residential</label>
             </value>
             <value>
-                <fullName>Apartment</fullName>
+                <fullName>Commercial</fullName>
                 <default>false</default>
-                <label>Apartment</label>
-            </value>
-            <value>
-                <fullName>Villa</fullName>
-                <default>false</default>
-                <label>Villa</label>
+                <label>Commercial</label>
             </value>
             <value>
                 <fullName>Mixed</fullName>
@@ -31,9 +26,34 @@
                 <label>Mixed</label>
             </value>
             <value>
-                <fullName>Commercial</fullName>
+                <fullName>Apartment</fullName>
                 <default>false</default>
-                <label>Commercial</label>
+                <isActive>false</isActive>
+                <label>Apartment</label>
+            </value>
+            <value>
+                <fullName>Apartments</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Apartments</label>
+            </value>
+            <value>
+                <fullName>Plot</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Plot</label>
+            </value>
+            <value>
+                <fullName>Villa</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Villa</label>
+            </value>
+            <value>
+                <fullName>Villas</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Villas</label>
             </value>
         </valueSetDefinition>
     </valueSet>

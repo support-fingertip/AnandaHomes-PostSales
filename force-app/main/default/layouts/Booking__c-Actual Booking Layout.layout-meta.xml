@@ -42,6 +42,10 @@
                 <behavior>Readonly</behavior>
                 <field>Pay_Ment__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Quote__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

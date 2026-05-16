@@ -128,6 +128,12 @@
                 <identifier>RecordPay_Ment__cField</identifier>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.Quote__c</fieldItem>
+                <identifier>RecordQuote__cField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-168c59f6-f9d3-4bba-9202-321e7f786687</name>
         <type>Facet</type>
     </flexiPageRegions>

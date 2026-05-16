@@ -2,10 +2,9 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Finance_User__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
-    <description>Default Finance User for the project. Approver for Receipts and Cancellation Level 4 / Interest Waive-Off Level 2.</description>
     <label>Finance User</label>
     <referenceTo>User</referenceTo>
-    <relationshipName>Projects_As_Finance_User</relationshipName>
+    <relationshipName>Projects7</relationshipName>
     <required>false</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
