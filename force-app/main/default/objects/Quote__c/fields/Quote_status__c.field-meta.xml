@@ -43,7 +43,6 @@
             <value>
                 <fullName>Converted</fullName>
                 <default>false</default>
-                <isActive>false</isActive>
                 <label>Converted</label>
             </value>
             <value>
