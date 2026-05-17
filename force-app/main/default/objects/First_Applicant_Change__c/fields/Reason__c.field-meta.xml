@@ -4,7 +4,6 @@
     <description>Reason for the first applicant change.</description>
     <label>Reason</label>
     <length>32768</length>
-    <required>true</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>LongTextArea</type>
